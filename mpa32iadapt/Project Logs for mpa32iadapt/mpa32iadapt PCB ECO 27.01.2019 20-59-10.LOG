@@ -1,0 +1,95 @@
+Removed Pin From Net: NetName=GND Pin=P0-1
+Removed Pin From Net: NetName=REF Pin=P0-2
+Removed Pin From Net: NetName=s_0 Pin=P0-3
+Removed Pin From Net: NetName=s_1 Pin=P0-5
+Removed Pin From Net: NetName=s_2 Pin=P0-7
+Removed Pin From Net: NetName=s_3 Pin=P0-9
+Removed Pin From Net: NetName=s_4 Pin=P0-11
+Removed Pin From Net: NetName=s_5 Pin=P0-13
+Removed Pin From Net: NetName=s_6 Pin=P0-15
+Removed Pin From Net: NetName=s_7 Pin=P0-17
+Removed Pin From Net: NetName=s_8 Pin=P0-19
+Removed Pin From Net: NetName=s_9 Pin=P0-21
+Removed Pin From Net: NetName=s_10 Pin=P0-23
+Removed Pin From Net: NetName=s_11 Pin=P0-25
+Removed Pin From Net: NetName=s_12 Pin=P0-27
+Removed Pin From Net: NetName=s_13 Pin=P0-29
+Removed Pin From Net: NetName=s_14 Pin=P0-31
+Removed Pin From Net: NetName=s_15 Pin=P0-33
+Removed Pin From Net: NetName=REF Pin=P0-35
+Removed Pin From Net: NetName=GND Pin=P0-36
+Removed Member From Class: ClassName=mpa32iadapt Member=P0
+Added Component: Designator=P?(MHDR2X18)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=P?-1
+Added Pin To Net: NetName=REF Pin=P?-2
+Added Pin To Net: NetName=s_0 Pin=P?-4
+Added Pin To Net: NetName=s_1 Pin=P?-6
+Added Pin To Net: NetName=s_2 Pin=P?-8
+Added Pin To Net: NetName=s_3 Pin=P?-10
+Added Pin To Net: NetName=s_4 Pin=P?-12
+Added Pin To Net: NetName=s_5 Pin=P?-14
+Added Pin To Net: NetName=s_6 Pin=P?-16
+Added Pin To Net: NetName=s_7 Pin=P?-18
+Added Pin To Net: NetName=s_8 Pin=P?-20
+Added Pin To Net: NetName=s_9 Pin=P?-22
+Added Pin To Net: NetName=s_10 Pin=P?-24
+Added Pin To Net: NetName=s_11 Pin=P?-26
+Added Pin To Net: NetName=s_12 Pin=P?-28
+Added Pin To Net: NetName=s_13 Pin=P?-30
+Added Pin To Net: NetName=s_14 Pin=P?-32
+Added Pin To Net: NetName=s_15 Pin=P?-34
+Added Pin To Net: NetName=REF Pin=P?-35
+Added Pin To Net: NetName=GND Pin=P?-36
+Added Pin To Net: NetName=NetP?_3 Pin=P?-3
+Added Pin To Net: NetName=NetP?_3 Pin=S0-B2
+Added Net: Name=NetP?_3
+Added Pin To Net: NetName=NetP?_5 Pin=P?-5
+Added Pin To Net: NetName=NetP?_5 Pin=S0-B3
+Added Net: Name=NetP?_5
+Added Pin To Net: NetName=NetP?_7 Pin=P?-7
+Added Pin To Net: NetName=NetP?_7 Pin=S0-B4
+Added Net: Name=NetP?_7
+Added Pin To Net: NetName=NetP?_9 Pin=P?-9
+Added Pin To Net: NetName=NetP?_9 Pin=S0-B5
+Added Net: Name=NetP?_9
+Added Pin To Net: NetName=NetP?_11 Pin=P?-11
+Added Pin To Net: NetName=NetP?_11 Pin=S0-B6
+Added Net: Name=NetP?_11
+Added Pin To Net: NetName=NetP?_13 Pin=P?-13
+Added Pin To Net: NetName=NetP?_13 Pin=S0-B7
+Added Net: Name=NetP?_13
+Added Pin To Net: NetName=NetP?_15 Pin=P?-15
+Added Pin To Net: NetName=NetP?_15 Pin=S0-B8
+Added Net: Name=NetP?_15
+Added Pin To Net: NetName=NetP?_17 Pin=P?-17
+Added Pin To Net: NetName=NetP?_17 Pin=S0-B9
+Added Net: Name=NetP?_17
+Added Pin To Net: NetName=NetP?_19 Pin=P?-19
+Added Pin To Net: NetName=NetP?_19 Pin=S0-B10
+Added Net: Name=NetP?_19
+Added Pin To Net: NetName=NetP?_21 Pin=P?-21
+Added Pin To Net: NetName=NetP?_21 Pin=S0-B11
+Added Net: Name=NetP?_21
+Added Pin To Net: NetName=NetP?_23 Pin=P?-23
+Added Pin To Net: NetName=NetP?_23 Pin=S0-B12
+Added Net: Name=NetP?_23
+Added Pin To Net: NetName=NetP?_25 Pin=P?-25
+Added Pin To Net: NetName=NetP?_25 Pin=S0-B13
+Added Net: Name=NetP?_25
+Added Pin To Net: NetName=NetP?_27 Pin=P?-27
+Added Pin To Net: NetName=NetP?_27 Pin=S0-B14
+Added Net: Name=NetP?_27
+Added Pin To Net: NetName=NetP?_29 Pin=P?-29
+Added Pin To Net: NetName=NetP?_29 Pin=S0-B15
+Added Net: Name=NetP?_29
+Added Pin To Net: NetName=NetP?_31 Pin=P?-31
+Added Pin To Net: NetName=NetP?_31 Pin=S0-B16
+Added Net: Name=NetP?_31
+Added Pin To Net: NetName=NetP?_33 Pin=P?-33
+Added Pin To Net: NetName=NetP?_33 Pin=S0-B17
+Added Net: Name=NetP?_33
+Added Member To Class: ClassName=mpa32iadapt Member=Component P? MHDR2X18

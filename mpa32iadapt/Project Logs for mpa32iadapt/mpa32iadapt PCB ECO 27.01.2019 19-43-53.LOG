@@ -1,0 +1,120 @@
+Added Component: Designator=P0(HDR2X18)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=S0(OMNETICS_A79024)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "OMNETICS_A79024"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "RHD2000_eval_board"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "OMNETICS_A79024"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "OMNETICS_A7902X"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=P0-1
+Added Pin To Net: NetName=GND Pin=P0-36
+Added Pin To Net: NetName=GND Pin=S0-B1
+Added Pin To Net: NetName=GND Pin=S0-T18
+Added Net: Name=GND
+Added Pin To Net: NetName=NetP0_4 Pin=P0-4
+Added Pin To Net: NetName=NetP0_4 Pin=S0-B17
+Added Net: Name=NetP0_4
+Added Pin To Net: NetName=NetP0_6 Pin=P0-6
+Added Pin To Net: NetName=NetP0_6 Pin=S0-B16
+Added Net: Name=NetP0_6
+Added Pin To Net: NetName=NetP0_8 Pin=P0-8
+Added Pin To Net: NetName=NetP0_8 Pin=S0-B15
+Added Net: Name=NetP0_8
+Added Pin To Net: NetName=NetP0_10 Pin=P0-10
+Added Pin To Net: NetName=NetP0_10 Pin=S0-B14
+Added Net: Name=NetP0_10
+Added Pin To Net: NetName=NetP0_12 Pin=P0-12
+Added Pin To Net: NetName=NetP0_12 Pin=S0-B13
+Added Net: Name=NetP0_12
+Added Pin To Net: NetName=NetP0_14 Pin=P0-14
+Added Pin To Net: NetName=NetP0_14 Pin=S0-B12
+Added Net: Name=NetP0_14
+Added Pin To Net: NetName=NetP0_16 Pin=P0-16
+Added Pin To Net: NetName=NetP0_16 Pin=S0-B11
+Added Net: Name=NetP0_16
+Added Pin To Net: NetName=NetP0_18 Pin=P0-18
+Added Pin To Net: NetName=NetP0_18 Pin=S0-B10
+Added Net: Name=NetP0_18
+Added Pin To Net: NetName=NetP0_20 Pin=P0-20
+Added Pin To Net: NetName=NetP0_20 Pin=S0-B9
+Added Net: Name=NetP0_20
+Added Pin To Net: NetName=NetP0_22 Pin=P0-22
+Added Pin To Net: NetName=NetP0_22 Pin=S0-B8
+Added Net: Name=NetP0_22
+Added Pin To Net: NetName=NetP0_24 Pin=P0-24
+Added Pin To Net: NetName=NetP0_24 Pin=S0-B7
+Added Net: Name=NetP0_24
+Added Pin To Net: NetName=NetP0_26 Pin=P0-26
+Added Pin To Net: NetName=NetP0_26 Pin=S0-B6
+Added Net: Name=NetP0_26
+Added Pin To Net: NetName=NetP0_28 Pin=P0-28
+Added Pin To Net: NetName=NetP0_28 Pin=S0-B5
+Added Net: Name=NetP0_28
+Added Pin To Net: NetName=NetP0_30 Pin=P0-30
+Added Pin To Net: NetName=NetP0_30 Pin=S0-B4
+Added Net: Name=NetP0_30
+Added Pin To Net: NetName=NetP0_32 Pin=P0-32
+Added Pin To Net: NetName=NetP0_32 Pin=S0-B3
+Added Net: Name=NetP0_32
+Added Pin To Net: NetName=NetP0_34 Pin=P0-34
+Added Pin To Net: NetName=NetP0_34 Pin=S0-B2
+Added Net: Name=NetP0_34
+Added Pin To Net: NetName=REF Pin=P0-2
+Added Pin To Net: NetName=REF Pin=P0-35
+Added Pin To Net: NetName=REF Pin=S0-B18
+Added Pin To Net: NetName=REF Pin=S0-T1
+Added Net: Name=REF
+Added Pin To Net: NetName=s_0 Pin=P0-3
+Added Pin To Net: NetName=s_0 Pin=S0-T17
+Added Net: Name=s_0
+Added Pin To Net: NetName=s_1 Pin=P0-5
+Added Pin To Net: NetName=s_1 Pin=S0-T16
+Added Net: Name=s_1
+Added Pin To Net: NetName=s_2 Pin=P0-7
+Added Pin To Net: NetName=s_2 Pin=S0-T15
+Added Net: Name=s_2
+Added Pin To Net: NetName=s_3 Pin=P0-9
+Added Pin To Net: NetName=s_3 Pin=S0-T14
+Added Net: Name=s_3
+Added Pin To Net: NetName=s_4 Pin=P0-11
+Added Pin To Net: NetName=s_4 Pin=S0-T13
+Added Net: Name=s_4
+Added Pin To Net: NetName=s_5 Pin=P0-13
+Added Pin To Net: NetName=s_5 Pin=S0-T12
+Added Net: Name=s_5
+Added Pin To Net: NetName=s_6 Pin=P0-15
+Added Pin To Net: NetName=s_6 Pin=S0-T11
+Added Net: Name=s_6
+Added Pin To Net: NetName=s_7 Pin=P0-17
+Added Pin To Net: NetName=s_7 Pin=S0-T10
+Added Net: Name=s_7
+Added Pin To Net: NetName=s_8 Pin=P0-19
+Added Pin To Net: NetName=s_8 Pin=S0-T9
+Added Net: Name=s_8
+Added Pin To Net: NetName=s_9 Pin=P0-21
+Added Pin To Net: NetName=s_9 Pin=S0-T8
+Added Net: Name=s_9
+Added Pin To Net: NetName=s_10 Pin=P0-23
+Added Pin To Net: NetName=s_10 Pin=S0-T7
+Added Net: Name=s_10
+Added Pin To Net: NetName=s_11 Pin=P0-25
+Added Pin To Net: NetName=s_11 Pin=S0-T6
+Added Net: Name=s_11
+Added Pin To Net: NetName=s_12 Pin=P0-27
+Added Pin To Net: NetName=s_12 Pin=S0-T5
+Added Net: Name=s_12
+Added Pin To Net: NetName=s_13 Pin=P0-29
+Added Pin To Net: NetName=s_13 Pin=S0-T4
+Added Net: Name=s_13
+Added Pin To Net: NetName=s_14 Pin=P0-31
+Added Pin To Net: NetName=s_14 Pin=S0-T3
+Added Net: Name=s_14
+Added Pin To Net: NetName=s_15 Pin=P0-33
+Added Pin To Net: NetName=s_15 Pin=S0-T2
+Added Net: Name=s_15
+Added Class: Name=mpa32iadapt
